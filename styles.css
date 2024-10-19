@@ -1,0 +1,38 @@
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    height: 100vh;
+    background-color: #726da8;
+    font-family: Arial, sans-serif;
+}
+
+.container {
+    text-align: center;
+}
+
+.container h1{
+    color: #bee7e8;
+}
+
+.hands img {
+    width: 100px;
+}
+
+.options {
+    margin-top: 20px;
+}
+
+.option {
+    margin: 10px;
+    padding: 10px 20px;
+    font-size: 16px;
+    cursor: pointer;
+    background-color: #594157;
+    color: #a0d2db
+}
+
+.score h2{
+    color:#bee7e8;
+}
